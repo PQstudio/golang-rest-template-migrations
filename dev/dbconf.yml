@@ -1,0 +1,3 @@
+default:
+    driver: mymysql
+    open: $DB_URL
